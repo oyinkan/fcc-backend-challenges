@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sakirat Usman",
+	"description": "A FCC backend challenge project",
+	"keywords": ["node", "npm", "express", "freecodecamp", "challenge"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
